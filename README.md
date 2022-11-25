@@ -1,9 +1,9 @@
 ## Hi, I'm Abhilash Kumar, From India 👋
 
-<p><em>Presently Learning Fullstack Development in @<a href="https://crio.do/">Crio.Do</a>.</em></p>
+<p><em>Presently Learning Fullstack Development in @<a href="https://crio.do/" target="_blank">Crio.Do</a>.</em></p>
 <dl>
 <dt><p>“ In order to be irreplaceable, one must always be different”</p></dt>
-                                             </dd><em> –Coco Chanel</em></dd>
+                                             </dd><em> – Coco Chanel</em></dd>
 </dl>
 
 [![dylan310](https://img.shields.io/badge/Abhilash-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilash-kumar-72b125246)
