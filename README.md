@@ -1,4 +1,4 @@
-<h1 align="center">HI I'm Abhilash Kumar 👋  </h1>
+<h1 align="start">HI I'm Abhilash Kumar 👋  </h1>
 
 - **A Frontend Developer 💻** <br />
 - Currently learning **React JS** & **TypeScript**
