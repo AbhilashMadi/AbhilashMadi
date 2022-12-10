@@ -1,13 +1,12 @@
-## Hi, I'm Abhilash Kumar, From India 👋
+<h1 align="center">HI I'm Abhilash Kumar 👋  </h1>
 
-<p><em>Presently Learning Fullstack Development in @<a href="https://crio.do/" target="_blank">Crio.Do</a>.</em></p>
-<dl>
-<dt><p>“ In order to be irreplaceable, one must always be different”</p></dt>
-                                             </dd><em> – Coco Chanel</em></dd>
-</dl>
+- **A Frontend Developer 💻** <br />
+- Currently learning **React JS** & **TypeScript**
+- Aspiring Full Stack in @Crio.Do 
+- Focusing on **#100DaysOfCode**
 
 [![dylan310](https://img.shields.io/badge/Abhilash-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhilash-kumar-72b125246)
-
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/abhilash_madi)
 ---
 
 ## My Tech Stack :heavy_check_mark:
