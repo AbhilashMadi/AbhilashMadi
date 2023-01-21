@@ -1,7 +1,7 @@
 <h1 align="start">Hi I'm Abhilash Kumar 👋  </h1>
 
 - **A Frontend Developer 💻** <br />
-- Currently learning **FullStack**
+- Currently learning **MERN**
 - Aspiring Full Stack in <a href="https://www.crio.do">@Crio.Do</a> 
 - Focusing on **#100DaysOfCode**
 
