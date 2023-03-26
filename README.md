@@ -1,7 +1,7 @@
 <h1 align="start">Hi I'm Abhilash Kumar 👋  </h1>
 
 - **MERN Stack Developer 💻** <br />
-- Currently learning **MERN**
+- Currently focusing on learning **Backend**
 - Aspiring Full Stack in <a href="https://www.crio.do">@Crio.Do</a> 
 - Focusing on Backend
 
